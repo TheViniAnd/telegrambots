@@ -1,0 +1,17 @@
+[Unit]
+Description=Telegram bot
+After=syslog.target network.target
+
+[Service]
+Type=simple
+User=nobody
+Group=nobody
+WorkingDirectory=/var/www/bot
+ExecStart=/var/www/bot/telebot/bin/python3.6 /var/www/bot/1.py
+Restart=on-abort
+
+Environment=VIRTUAL_ENV=/var/www/bot/telebot
+Environment=PATH=$VIRTUAL_ENV/bin:$PATH
+
+[Install]
+WantedBy=multi-user.target

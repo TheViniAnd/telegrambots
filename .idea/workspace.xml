@@ -1,0 +1,919 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="baabbdf1-f315-410c-8952-a9b72137ff08" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/telegrambot$test.coverage" NAME="test Coverage Results" MODIFIED="1551163472018" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/telegrambot$diplom.coverage" NAME="diplom Coverage Results" MODIFIED="1560878586152" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/telegrambot$data.coverage" NAME="data Coverage Results" MODIFIED="1557501120214" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/telegrambot$1.coverage" NAME="1 Coverage Results" MODIFIED="1557309318870" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/telegrambot$3.coverage" NAME="3 Coverage Results" MODIFIED="1557309729055" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/telegrambot$2.coverage" NAME="2 Coverage Results" MODIFIED="1553857310123" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="1.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2805">
+              <caret line="187" column="68" lean-forward="false" selection-start-line="187" selection-start-column="24" selection-end-line="187" selection-end-column="68" />
+              <folding>
+                <element signature="e#1#14#0" expanded="true" />
+                <marker date="1557309254156" expanded="true" signature="12310:12382" ph="CREATE TABLE... users" />
+                <marker date="1557309254156" expanded="true" signature="12693:12733" ph="INSERT INTO users... " />
+                <marker date="1557309254156" expanded="true" signature="12934:12953" ph="SELECT * FRO... users" />
+                <marker date="1557309254156" expanded="true" signature="15294:15366" ph="CREATE TABLE... users" />
+                <marker date="1557309254156" expanded="true" signature="15624:15662" ph="INSERT INTO users... " />
+                <marker date="1557309254156" expanded="true" signature="15624:15664" ph="INSERT INTO users... " />
+                <marker date="1557309254156" expanded="true" signature="15864:15883" ph="SELECT * FRO... users" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="3.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/3.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="9540">
+              <caret line="642" column="8" lean-forward="false" selection-start-line="642" selection-start-column="8" selection-end-line="644" selection-end-column="31" />
+              <folding>
+                <element signature="e#24#37#0" expanded="true" />
+                <marker date="1557309402740" expanded="true" signature="8282:8384" ph="CREATE TABLE... users" />
+                <marker date="1557309402740" expanded="true" signature="8512:8580" ph="INSERT INTO users... " />
+                <marker date="1557309402740" expanded="true" signature="8690:8709" ph="SELECT * FRO... users" />
+                <marker date="1557309402740" expanded="true" signature="9815:9917" ph="CREATE TABLE... users" />
+                <marker date="1557309402740" expanded="true" signature="10045:10113" ph="INSERT INTO users... " />
+                <marker date="1557309402740" expanded="true" signature="10223:10242" ph="SELECT * FRO... users" />
+                <marker date="1557309402740" expanded="true" signature="11346:11448" ph="CREATE TABLE... users" />
+                <marker date="1557309402740" expanded="true" signature="11576:11644" ph="INSERT INTO users... " />
+                <marker date="1557309402740" expanded="true" signature="11754:11773" ph="SELECT * FRO... users" />
+                <marker date="1557309402740" expanded="true" signature="12879:12981" ph="CREATE TABLE... users" />
+                <marker date="1557309402740" expanded="true" signature="13109:13177" ph="INSERT INTO users... " />
+                <marker date="1557309402740" expanded="true" signature="13287:13306" ph="SELECT * FRO... users" />
+                <marker date="1557309402740" expanded="true" signature="14398:14500" ph="CREATE TABLE... users" />
+                <marker date="1557309402740" expanded="true" signature="14628:14696" ph="INSERT INTO users... " />
+                <marker date="1557309402740" expanded="true" signature="14806:14825" ph="SELECT * FRO... users" />
+                <marker date="1557309402740" expanded="true" signature="15919:16021" ph="CREATE TABLE... users" />
+                <marker date="1557309402740" expanded="true" signature="16149:16217" ph="INSERT INTO users... " />
+                <marker date="1557309402740" expanded="true" signature="16327:16346" ph="SELECT * FRO... users" />
+                <marker date="1557309402740" expanded="true" signature="17453:17555" ph="CREATE TABLE... users" />
+                <marker date="1557309402740" expanded="true" signature="17683:17751" ph="INSERT INTO users... " />
+                <marker date="1557309402740" expanded="true" signature="17861:17880" ph="SELECT * FRO... users" />
+                <marker date="1557309402740" expanded="true" signature="18984:19086" ph="CREATE TABLE... users" />
+                <marker date="1557309402740" expanded="true" signature="19214:19282" ph="INSERT INTO users... " />
+                <marker date="1557309402740" expanded="true" signature="19392:19411" ph="SELECT * FRO... users" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="diplom.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/diplom.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2990">
+              <caret line="300" column="20" lean-forward="false" selection-start-line="300" selection-start-column="20" selection-end-line="300" selection-end-column="20" />
+              <folding>
+                <element signature="e#24#37#0" expanded="true" />
+                <marker date="1559403641120" expanded="true" signature="2671:2758" ph="CREATE TABLE... users" />
+                <marker date="1559403641120" expanded="true" signature="2899:2953" ph="INSERT INTO users... " />
+                <marker date="1559403641120" expanded="true" signature="3061:3080" ph="SELECT * FRO... users" />
+                <marker date="1559403641120" expanded="true" signature="14472:14491" ph="SELECT * FRO... users" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>date</find>
+      <find>callback_query_handler</find>
+      <find>CallbackQuery</find>
+      <find>inline_calendar</find>
+      <find>is_inline_calendar_callbackquery</find>
+      <find>id</find>
+      <find>handler_callback</find>
+      <find>data</find>
+      <find>inline_calendar_day_15</find>
+      <find>phone</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/telegramoptions.py" />
+        <option value="$PROJECT_DIR$/telegramcalendar.py" />
+        <option value="$PROJECT_DIR$/inline_calendar.py" />
+        <option value="$PROJECT_DIR$/test.py" />
+        <option value="$PROJECT_DIR$/2.py" />
+        <option value="$PROJECT_DIR$/bot.service" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/1.py" />
+        <option value="$PROJECT_DIR$/3.py" />
+        <option value="$PROJECT_DIR$/data.py" />
+        <option value="$PROJECT_DIR$/diplom.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <annotation-enable>false</annotation-enable>
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="215" />
+    <option name="y" value="22" />
+    <option name="width" value="1100" />
+    <option name="height" value="838" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>General</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>InjectedReferences</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="telegrambot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="telegrambot" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.diplom">
+    <configuration name="1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="telegrambot" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="telegrambot" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="3" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="telegrambot" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="data" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="telegrambot" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/data.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="diplom" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="telegrambot" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/diplom.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Python.1" />
+      <item index="1" class="java.lang.String" itemvalue="Python.2" />
+      <item index="2" class="java.lang.String" itemvalue="Python.3" />
+      <item index="3" class="java.lang.String" itemvalue="Python.data" />
+      <item index="4" class="java.lang.String" itemvalue="Python.diplom" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.diplom" />
+        <item index="1" class="java.lang.String" itemvalue="Python.data" />
+        <item index="2" class="java.lang.String" itemvalue="Python.3" />
+        <item index="3" class="java.lang.String" itemvalue="Python.1" />
+        <item index="4" class="java.lang.String" itemvalue="Python.2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="baabbdf1-f315-410c-8952-a9b72137ff08" name="Default" comment="" />
+      <created>1549962972006</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1549962972006</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="215" y="22" width="1100" height="838" extended-state="0" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24291116" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.26379544" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32839838" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39838493" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32839838" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Concurrent Activities Diagram" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32928944" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="2" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/bot.service">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="16" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1725">
+          <caret line="120" column="50" lean-forward="false" selection-start-line="120" selection-start-column="50" selection-end-line="120" selection-end-column="50" />
+          <folding>
+            <element signature="e#1#14#0" expanded="true" />
+            <marker date="1557309254156" expanded="true" signature="12310:12382" ph="CREATE TABLE... users" />
+            <marker date="1557309254156" expanded="true" signature="12693:12733" ph="INSERT INTO users... " />
+            <marker date="1557309254156" expanded="true" signature="12934:12953" ph="SELECT * FRO... users" />
+            <marker date="1557309254156" expanded="true" signature="15294:15366" ph="CREATE TABLE... users" />
+            <marker date="1557309254156" expanded="true" signature="15624:15662" ph="INSERT INTO users... " />
+            <marker date="1557309254156" expanded="true" signature="15624:15664" ph="INSERT INTO users... " />
+            <marker date="1557309254156" expanded="true" signature="15864:15883" ph="SELECT * FRO... users" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="14" lean-forward="false" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/inline_calendar.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="43" column="38" lean-forward="false" selection-start-line="43" selection-start-column="34" selection-end-line="43" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#1#14#0" expanded="true" />
+            <marker date="1557309254156" expanded="true" signature="12310:12382" ph="CREATE TABLE... users" />
+            <marker date="1557309254156" expanded="true" signature="12693:12733" ph="INSERT INTO users... " />
+            <marker date="1557309254156" expanded="true" signature="12934:12953" ph="SELECT * FRO... users" />
+            <marker date="1557309254156" expanded="true" signature="15294:15366" ph="CREATE TABLE... users" />
+            <marker date="1557309254156" expanded="true" signature="15624:15662" ph="INSERT INTO users... " />
+            <marker date="1557309254156" expanded="true" signature="15624:15664" ph="INSERT INTO users... " />
+            <marker date="1557309254156" expanded="true" signature="15864:15883" ph="SELECT * FRO... users" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="14" lean-forward="false" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/inline_calendar.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="43" column="38" lean-forward="false" selection-start-line="43" selection-start-column="34" selection-end-line="43" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="14" lean-forward="false" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2235">
+          <caret line="149" column="33" lean-forward="true" selection-start-line="149" selection-start-column="33" selection-end-line="149" selection-end-column="33" />
+          <folding>
+            <element signature="e#1#14#0" expanded="true" />
+            <marker date="1557309254156" expanded="true" signature="12310:12382" ph="CREATE TABLE... users" />
+            <marker date="1557309254156" expanded="true" signature="12693:12733" ph="INSERT INTO users... " />
+            <marker date="1557309254156" expanded="true" signature="12934:12953" ph="SELECT * FRO... users" />
+            <marker date="1557309254156" expanded="true" signature="15294:15366" ph="CREATE TABLE... users" />
+            <marker date="1557309254156" expanded="true" signature="15624:15662" ph="INSERT INTO users... " />
+            <marker date="1557309254156" expanded="true" signature="15624:15664" ph="INSERT INTO users... " />
+            <marker date="1557309254156" expanded="true" signature="15864:15883" ph="SELECT * FRO... users" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/inline_calendar.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="43" column="38" lean-forward="false" selection-start-line="43" selection-start-column="34" selection-end-line="43" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#1#14#0" expanded="true" />
+            <marker date="1557309254156" expanded="true" signature="12310:12382" ph="CREATE TABLE... users" />
+            <marker date="1557309254156" expanded="true" signature="12693:12733" ph="INSERT INTO users... " />
+            <marker date="1557309254156" expanded="true" signature="12934:12953" ph="SELECT * FRO... users" />
+            <marker date="1557309254156" expanded="true" signature="15294:15366" ph="CREATE TABLE... users" />
+            <marker date="1557309254156" expanded="true" signature="15624:15662" ph="INSERT INTO users... " />
+            <marker date="1557309254156" expanded="true" signature="15624:15664" ph="INSERT INTO users... " />
+            <marker date="1557309254156" expanded="true" signature="15864:15883" ph="SELECT * FRO... users" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="14" lean-forward="false" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/inline_calendar.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="43" column="38" lean-forward="false" selection-start-line="43" selection-start-column="34" selection-end-line="43" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#1#14#0" expanded="true" />
+            <marker date="1557309254156" expanded="true" signature="12310:12382" ph="CREATE TABLE... users" />
+            <marker date="1557309254156" expanded="true" signature="12693:12733" ph="INSERT INTO users... " />
+            <marker date="1557309254156" expanded="true" signature="12934:12953" ph="SELECT * FRO... users" />
+            <marker date="1557309254156" expanded="true" signature="15294:15366" ph="CREATE TABLE... users" />
+            <marker date="1557309254156" expanded="true" signature="15624:15662" ph="INSERT INTO users... " />
+            <marker date="1557309254156" expanded="true" signature="15624:15664" ph="INSERT INTO users... " />
+            <marker date="1557309254156" expanded="true" signature="15864:15883" ph="SELECT * FRO... users" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="14" lean-forward="false" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/inline_calendar.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="43" column="38" lean-forward="false" selection-start-line="43" selection-start-column="34" selection-end-line="43" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1290">
+          <caret line="91" column="102" lean-forward="true" selection-start-line="91" selection-start-column="102" selection-end-line="91" selection-end-column="102" />
+          <folding>
+            <element signature="e#1#14#0" expanded="true" />
+            <marker date="1557309254156" expanded="true" signature="12310:12382" ph="CREATE TABLE... users" />
+            <marker date="1557309254156" expanded="true" signature="12693:12733" ph="INSERT INTO users... " />
+            <marker date="1557309254156" expanded="true" signature="12934:12953" ph="SELECT * FRO... users" />
+            <marker date="1557309254156" expanded="true" signature="15294:15366" ph="CREATE TABLE... users" />
+            <marker date="1557309254156" expanded="true" signature="15624:15662" ph="INSERT INTO users... " />
+            <marker date="1557309254156" expanded="true" signature="15624:15664" ph="INSERT INTO users... " />
+            <marker date="1557309254156" expanded="true" signature="15864:15883" ph="SELECT * FRO... users" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="14" lean-forward="true" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/inline_calendar.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="43" column="38" lean-forward="false" selection-start-line="43" selection-start-column="34" selection-end-line="43" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#1#14#0" expanded="true" />
+            <marker date="1557309254156" expanded="true" signature="12310:12382" ph="CREATE TABLE... users" />
+            <marker date="1557309254156" expanded="true" signature="12693:12733" ph="INSERT INTO users... " />
+            <marker date="1557309254156" expanded="true" signature="12934:12953" ph="SELECT * FRO... users" />
+            <marker date="1557309254156" expanded="true" signature="15294:15366" ph="CREATE TABLE... users" />
+            <marker date="1557309254156" expanded="true" signature="15624:15662" ph="INSERT INTO users... " />
+            <marker date="1557309254156" expanded="true" signature="15624:15664" ph="INSERT INTO users... " />
+            <marker date="1557309254156" expanded="true" signature="15864:15883" ph="SELECT * FRO... users" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="29" column="98" lean-forward="false" selection-start-line="29" selection-start-column="98" selection-end-line="29" selection-end-column="98" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2565">
+          <caret line="171" column="47" lean-forward="false" selection-start-line="171" selection-start-column="44" selection-end-line="171" selection-end-column="47" />
+          <folding>
+            <element signature="e#1#14#0" expanded="true" />
+            <marker date="1557309254156" expanded="true" signature="12310:12382" ph="CREATE TABLE... users" />
+            <marker date="1557309254156" expanded="true" signature="12693:12733" ph="INSERT INTO users... " />
+            <marker date="1557309254156" expanded="true" signature="12934:12953" ph="SELECT * FRO... users" />
+            <marker date="1557309254156" expanded="true" signature="15294:15366" ph="CREATE TABLE... users" />
+            <marker date="1557309254156" expanded="true" signature="15624:15662" ph="INSERT INTO users... " />
+            <marker date="1557309254156" expanded="true" signature="15624:15664" ph="INSERT INTO users... " />
+            <marker date="1557309254156" expanded="true" signature="15864:15883" ph="SELECT * FRO... users" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/inline_calendar.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3270">
+          <caret line="223" column="51" lean-forward="false" selection-start-line="223" selection-start-column="51" selection-end-line="223" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="29" column="98" lean-forward="false" selection-start-line="29" selection-start-column="98" selection-end-line="29" selection-end-column="98" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1185">
+          <caret line="79" column="37" lean-forward="true" selection-start-line="79" selection-start-column="37" selection-end-line="79" selection-end-column="37" />
+          <folding>
+            <element signature="e#1#14#0" expanded="true" />
+            <marker date="1557309254156" expanded="true" signature="12310:12382" ph="CREATE TABLE... users" />
+            <marker date="1557309254156" expanded="true" signature="12693:12733" ph="INSERT INTO users... " />
+            <marker date="1557309254156" expanded="true" signature="12934:12953" ph="SELECT * FRO... users" />
+            <marker date="1557309254156" expanded="true" signature="15294:15366" ph="CREATE TABLE... users" />
+            <marker date="1557309254156" expanded="true" signature="15624:15662" ph="INSERT INTO users... " />
+            <marker date="1557309254156" expanded="true" signature="15624:15664" ph="INSERT INTO users... " />
+            <marker date="1557309254156" expanded="true" signature="15864:15883" ph="SELECT * FRO... users" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="29" column="98" lean-forward="false" selection-start-line="29" selection-start-column="98" selection-end-line="29" selection-end-column="98" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/inline_calendar.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3345">
+          <caret line="223" column="51" lean-forward="false" selection-start-line="223" selection-start-column="51" selection-end-line="223" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1020">
+          <caret line="68" column="64" lean-forward="true" selection-start-line="68" selection-start-column="64" selection-end-line="68" selection-end-column="64" />
+          <folding>
+            <element signature="e#1#14#0" expanded="true" />
+            <marker date="1557309254156" expanded="true" signature="12310:12382" ph="CREATE TABLE... users" />
+            <marker date="1557309254156" expanded="true" signature="12693:12733" ph="INSERT INTO users... " />
+            <marker date="1557309254156" expanded="true" signature="12934:12953" ph="SELECT * FRO... users" />
+            <marker date="1557309254156" expanded="true" signature="15294:15366" ph="CREATE TABLE... users" />
+            <marker date="1557309254156" expanded="true" signature="15624:15662" ph="INSERT INTO users... " />
+            <marker date="1557309254156" expanded="true" signature="15624:15664" ph="INSERT INTO users... " />
+            <marker date="1557309254156" expanded="true" signature="15864:15883" ph="SELECT * FRO... users" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="29" column="98" lean-forward="true" selection-start-line="29" selection-start-column="98" selection-end-line="29" selection-end-column="98" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/inline_calendar.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3345">
+          <caret line="223" column="51" lean-forward="false" selection-start-line="223" selection-start-column="51" selection-end-line="223" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#1#14#0" expanded="true" />
+            <marker date="1557309254156" expanded="true" signature="12310:12382" ph="CREATE TABLE... users" />
+            <marker date="1557309254156" expanded="true" signature="12693:12733" ph="INSERT INTO users... " />
+            <marker date="1557309254156" expanded="true" signature="12934:12953" ph="SELECT * FRO... users" />
+            <marker date="1557309254156" expanded="true" signature="15294:15366" ph="CREATE TABLE... users" />
+            <marker date="1557309254156" expanded="true" signature="15624:15662" ph="INSERT INTO users... " />
+            <marker date="1557309254156" expanded="true" signature="15624:15664" ph="INSERT INTO users... " />
+            <marker date="1557309254156" expanded="true" signature="15864:15883" ph="SELECT * FRO... users" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="11" column="51" lean-forward="false" selection-start-line="11" selection-start-column="51" selection-end-line="11" selection-end-column="51" />
+          <folding>
+            <element signature="e#1#14#0" expanded="true" />
+            <marker date="1557309254156" expanded="true" signature="12310:12382" ph="CREATE TABLE... users" />
+            <marker date="1557309254156" expanded="true" signature="12693:12733" ph="INSERT INTO users... " />
+            <marker date="1557309254156" expanded="true" signature="12934:12953" ph="SELECT * FRO... users" />
+            <marker date="1557309254156" expanded="true" signature="15294:15366" ph="CREATE TABLE... users" />
+            <marker date="1557309254156" expanded="true" signature="15624:15662" ph="INSERT INTO users... " />
+            <marker date="1557309254156" expanded="true" signature="15624:15664" ph="INSERT INTO users... " />
+            <marker date="1557309254156" expanded="true" signature="15864:15883" ph="SELECT * FRO... users" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/telegramcalendar.py" />
+    <entry file="file://$PROJECT_DIR$/inline_calendar.db" />
+    <entry file="file://$USER_HOME$/Library/Python/3.6/lib/python/site-packages/telebot/apihelper.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="302">
+          <caret line="74" column="0" lean-forward="false" selection-start-line="74" selection-start-column="0" selection-end-line="74" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/inline_calendar.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="164">
+          <caret line="223" column="0" lean-forward="false" selection-start-line="223" selection-start-column="0" selection-end-line="223" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="14" lean-forward="true" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/telegramoptions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="42" column="19" lean-forward="false" selection-start-line="42" selection-start-column="19" selection-end-line="42" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="14" lean-forward="false" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bot.service">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="16" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9540">
+          <caret line="642" column="8" lean-forward="false" selection-start-line="642" selection-start-column="8" selection-end-line="644" selection-end-column="31" />
+          <folding>
+            <element signature="e#24#37#0" expanded="true" />
+            <marker date="1557309402740" expanded="true" signature="8282:8384" ph="CREATE TABLE... users" />
+            <marker date="1557309402740" expanded="true" signature="8512:8580" ph="INSERT INTO users... " />
+            <marker date="1557309402740" expanded="true" signature="8690:8709" ph="SELECT * FRO... users" />
+            <marker date="1557309402740" expanded="true" signature="9815:9917" ph="CREATE TABLE... users" />
+            <marker date="1557309402740" expanded="true" signature="10045:10113" ph="INSERT INTO users... " />
+            <marker date="1557309402740" expanded="true" signature="10223:10242" ph="SELECT * FRO... users" />
+            <marker date="1557309402740" expanded="true" signature="11346:11448" ph="CREATE TABLE... users" />
+            <marker date="1557309402740" expanded="true" signature="11576:11644" ph="INSERT INTO users... " />
+            <marker date="1557309402740" expanded="true" signature="11754:11773" ph="SELECT * FRO... users" />
+            <marker date="1557309402740" expanded="true" signature="12879:12981" ph="CREATE TABLE... users" />
+            <marker date="1557309402740" expanded="true" signature="13109:13177" ph="INSERT INTO users... " />
+            <marker date="1557309402740" expanded="true" signature="13287:13306" ph="SELECT * FRO... users" />
+            <marker date="1557309402740" expanded="true" signature="14398:14500" ph="CREATE TABLE... users" />
+            <marker date="1557309402740" expanded="true" signature="14628:14696" ph="INSERT INTO users... " />
+            <marker date="1557309402740" expanded="true" signature="14806:14825" ph="SELECT * FRO... users" />
+            <marker date="1557309402740" expanded="true" signature="15919:16021" ph="CREATE TABLE... users" />
+            <marker date="1557309402740" expanded="true" signature="16149:16217" ph="INSERT INTO users... " />
+            <marker date="1557309402740" expanded="true" signature="16327:16346" ph="SELECT * FRO... users" />
+            <marker date="1557309402740" expanded="true" signature="17453:17555" ph="CREATE TABLE... users" />
+            <marker date="1557309402740" expanded="true" signature="17683:17751" ph="INSERT INTO users... " />
+            <marker date="1557309402740" expanded="true" signature="17861:17880" ph="SELECT * FRO... users" />
+            <marker date="1557309402740" expanded="true" signature="18984:19086" ph="CREATE TABLE... users" />
+            <marker date="1557309402740" expanded="true" signature="19214:19282" ph="INSERT INTO users... " />
+            <marker date="1557309402740" expanded="true" signature="19392:19411" ph="SELECT * FRO... users" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="38" column="26" lean-forward="false" selection-start-line="54" selection-start-column="4" selection-end-line="54" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/diplom.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2990">
+          <caret line="300" column="20" lean-forward="false" selection-start-line="300" selection-start-column="20" selection-end-line="300" selection-end-column="20" />
+          <folding>
+            <element signature="e#24#37#0" expanded="true" />
+            <marker date="1559403641120" expanded="true" signature="2671:2758" ph="CREATE TABLE... users" />
+            <marker date="1559403641120" expanded="true" signature="2899:2953" ph="INSERT INTO users... " />
+            <marker date="1559403641120" expanded="true" signature="3061:3080" ph="SELECT * FRO... users" />
+            <marker date="1559403641120" expanded="true" signature="14472:14491" ph="SELECT * FRO... users" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2805">
+          <caret line="187" column="68" lean-forward="false" selection-start-line="187" selection-start-column="24" selection-end-line="187" selection-end-column="68" />
+          <folding>
+            <element signature="e#1#14#0" expanded="true" />
+            <marker date="1557309254156" expanded="true" signature="12310:12382" ph="CREATE TABLE... users" />
+            <marker date="1557309254156" expanded="true" signature="12693:12733" ph="INSERT INTO users... " />
+            <marker date="1557309254156" expanded="true" signature="12934:12953" ph="SELECT * FRO... users" />
+            <marker date="1557309254156" expanded="true" signature="15294:15366" ph="CREATE TABLE... users" />
+            <marker date="1557309254156" expanded="true" signature="15624:15662" ph="INSERT INTO users... " />
+            <marker date="1557309254156" expanded="true" signature="15624:15664" ph="INSERT INTO users... " />
+            <marker date="1557309254156" expanded="true" signature="15864:15883" ph="SELECT * FRO... users" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
