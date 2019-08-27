@@ -14,7 +14,7 @@ import inline_calendar
 
 apihelper.proxy = {'http':'http://10.10.1.10:3128'}
 
-YOUR_TOKEN = '633320765:AAHC4xc8UvmN-kTruS9gYD13OaoNnpwoOuY'
+YOUR_TOKEN = '****'
 bot = telebot.TeleBot(token=YOUR_TOKEN)
 
 
